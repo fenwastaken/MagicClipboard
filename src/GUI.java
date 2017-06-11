@@ -28,6 +28,8 @@ import javax.swing.event.MenuListener;
 
 public class GUI extends JFrame{
 
+	//should be good
+	
 	public static String version = "1.4";
 
 	public static int w = 0;
